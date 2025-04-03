@@ -42,16 +42,18 @@ Foi desenvolvido um algoritmo em Python que lê um vídeo com as folhas e segmen
 
 # Tecnologias Utilizadas
 - Python
+  
 - OpenCV
-  Biblioteca de visão computacional usada para:
-  Ler vídeos (cv2.VideoCapture)
-  Manipular imagens (conversão de cores, máscaras, contornos)
-  Exibir imagens e vídeos com anotações (como texto e contornos)
+  **Biblioteca de visão computacional usada para:**
+   - Ler vídeos (cv2.VideoCapture)
+   - Manipular imagens (conversão de cores, máscaras, contornos)
+   - Exibir imagens e vídeos com anotações (como texto e contornos)
+     
 - NumPy
-  Biblioteca para manipulação de arrays, usada para:
-  Trabalhar com máscaras e faixas de cor (HSV)
-  Definir intervalos de segmentação
-  Operações matemáticas sobre imagens e matrizes
+  **Biblioteca para manipulação de arrays, usada para:**
+   - Trabalhar com máscaras e faixas de cor (HSV)
+   - Definir intervalos de segmentação
+   - Operações matemáticas sobre imagens e matrizes
 
 # Como Executar
 1. Instale as dependências:

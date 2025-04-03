@@ -56,12 +56,12 @@ Foi desenvolvido um algoritmo em Python que lê um vídeo com as folhas e segmen
    - Operações matemáticas sobre imagens e matrizes
 
 # Como Executar
-1. Instale as dependências:
+1. Instale as dependências no cmd:
    ```bash
    pip install opencv-python numpy
    ```
-2. Salve seu vídeo como `video_folhas.mp4` na mesma pasta do script.
-3. Execute no terminal:
+2. Salve seu vídeo como `video_folhas.mp4` na mesma pasta do py no vs.
+3. Execute no terminal do vs:
    ```bash
    python visaoComputacional.py
    ```

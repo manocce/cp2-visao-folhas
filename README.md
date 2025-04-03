@@ -8,7 +8,7 @@ Projeto desenvolvido por:
 - Marianne Nocce - RM93255
 - Marina Lira - RM95503
 
-Como parte da avaliação do Checkpoint 2 da disciplina de Sistemas Inteligentes da FIAP.
+
 
 # Tema do Projeto
 Detecção do estado de saúde de folhas a partir de análise de vídeo com técnicas de visão computacional.

@@ -20,11 +20,11 @@ A identificação visual de doenças em folhas é uma tarefa essencial na agricu
 - **Doente**: se for verde, mas contiver manchas
 - **Saudável**: se estiver totalmente verde, sem manchas
 
-# Exemplos de Classificação
+## Exemplos de Classificação
 
 ### Saudável
-![Folha Saudável](![saudavel](https://github.com/user-attachments/assets/304d779c-3bd6-4e87-aa9e-2ef34ebd9d16)
-)
+![Folha Saudável]
+![saudavel](https://github.com/user-attachments/assets/a5f1d74c-0f3a-4ebd-998a-37207047f50c)
 
 
 ### Doente

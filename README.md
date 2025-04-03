@@ -23,17 +23,19 @@ A identificação visual de doenças em folhas é uma tarefa essencial na agricu
 ## Exemplos de Classificação
 
 ### Saudável
-![Folha Saudável]
+
 ![saudavel](https://github.com/user-attachments/assets/a5f1d74c-0f3a-4ebd-998a-37207047f50c)
 
 
 ### Doente
-![Folha Doente](![doente](https://github.com/user-attachments/assets/1180ca0b-aa7a-4159-bd1d-1145b5d7fb48)
-)
+
+![doente](https://github.com/user-attachments/assets/3672c05c-1795-4066-9dce-a05df7b8478c)
+
 
 ### Severamente Doente
-![Folha Severamente Doente](![severamente_doente](https://github.com/user-attachments/assets/2f8e24fa-0084-4542-bd34-0d81f5eaae84)
-)
+
+![severamente_doente](https://github.com/user-attachments/assets/bfabab1a-549c-497a-9c70-2a9328f7b530)
+
 
 # Solução Proposta
 Foi desenvolvido um algoritmo em Python que lê um vídeo com folhas em movimento e segmenta a região da folha com base em cor (HSV). Assim detecta manchas por threshold e morfologia e analisa a proporção de verde e presença de manchas. Classifica e escreve no vídeo o estado de saúde.

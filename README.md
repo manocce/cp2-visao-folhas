@@ -38,7 +38,7 @@ A identificação visual de doenças em folhas é uma tarefa essencial na agricu
 
 
 # Solução Proposta
-Foi desenvolvido um algoritmo em Python que lê um vídeo com folhas em movimento e segmenta a região da folha com base em cor (HSV). Assim detecta manchas por threshold e morfologia e analisa a proporção de verde e presença de manchas. Classifica e escreve no vídeo o estado de saúde.
+Foi desenvolvido um algoritmo em Python que lê um vídeo com as folhas e segmenta a região da folha com base em cor (HSV). Assim detecta manchas por threshold e morfologia e analisa a proporção de verde e presença de manchas. Classifica e escreve no vídeo o estado de saúde das folhas.
 
 # Tecnologias Utilizadas
 - Python
